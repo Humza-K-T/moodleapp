@@ -1,0 +1,1 @@
+npx gulp watch & NODE_OPTIONS=--max-old-space-size=4096 npx ng serve "--host=localhost" "--port=8100" "--project=app"
